@@ -38,6 +38,17 @@ cp .env.example .env        # GOOGLE_API_KEY 채우기
 ```bash
 python build_index.py --reset
 python ask.py "루트 갭은 몇 mm로 맞춰?"
+ # 자유 질문
+  python ask.py "스테인리스 박판 용접할 때 열변형 어떻게 막아?"
+  python ask.py "텅스텐 전극봉 연마 각도는?"
+  python ask.py "RT 결함이 자꾸 나오는데 원인이 뭐야?"
+  python ask.py "아크가 자꾸 쏠리는데 어떻게 해?"
+  python ask.py "기공 생기는 이유"
+
+  # 옵션 활용
+  python ask.py "백비드 전류" --video    # 영상 메타데이터에서만 검색
+  python ask.py "백비드 전류" --docs     # 가이드 문서에서만 검색
+  python ask.py "퍼징 방법" -k 10        # 검색 결과 10개로 늘리기 (기본 5개)
 ```
 
 ## 지원(시스템 통합) 인터페이스
