@@ -1,0 +1,24 @@
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+
+# Large data / artifacts
+*.zip
+*.mp4
+data/3_시연_동영상_원본/
+data/videos/
+data/chroma/
+data/cache/
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/

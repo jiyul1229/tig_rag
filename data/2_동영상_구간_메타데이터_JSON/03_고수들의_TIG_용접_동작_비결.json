@@ -1,0 +1,55 @@
+{
+  "video_id": "master_level_tig_welding",
+  "video_title": "신들린 수준의 TIG 용접",
+  "video_url": "3_시연_동영상_원본/03_고수들의_TIG_용접_동작_비결.mp4",
+  "metadata": {
+    "material": "Carbon Steel / Stainless Steel",
+    "position": "General TIG Welding Practice",
+    "pipe_size": "Mixed",
+    "difficulty": "초/중급"
+  },
+  "segments": [
+    {
+      "segment_id": 1,
+      "start_time": "00:00",
+      "end_time": "00:08",
+      "keywords": [
+        "8자 위빙",
+        "운봉법 시연",
+        "손목 회전",
+        "고난도 위빙",
+        "명인 기술"
+      ],
+      "description": "TIG 용접 최고 수준의 정교한 8자 위빙(Weaving) 손목 스냅 및 운봉 동작을 시각적으로 학습합니다.",
+      "transcript": "토치 세라믹을 개선면에 밀착시킨 채 손목의 유연한 회전만을 사용하여 8자 모양을 그리며 나아가는 정밀한 위빙 기법을 고해상도로 관찰하며, 토치 각도와 진행 방향의 일관성을 분석합니다."
+    },
+    {
+      "segment_id": 2,
+      "start_time": "00:09",
+      "end_time": "00:15",
+      "keywords": [
+        "물결 비드",
+        "비드 패턴",
+        "토치 각도",
+        "균일성",
+        "아크 플레어"
+      ],
+      "description": "좌우 대칭형 물결 비드를 형성하기 위해 일정하게 유지해야 하는 토치 작업각과 진행각 설정입니다.",
+      "transcript": "비드의 물결 간격이 자로 잰 듯 일정하게 나오도록 아크의 폭과 깊이를 조절하는 원리, 특히 진행 방향으로 토치를 약 70~80도 유지하며 좌우 측벽에서 멈춰 머무는 시간(Dwell time)의 중요성을 해설합니다."
+    },
+    {
+      "segment_id": 3,
+      "start_time": "00:16",
+      "end_time": "00:23",
+      "keywords": [
+        "전류 제어",
+        "용입 깊이",
+        "용접봉 공급",
+        "비드 완성",
+        "예술적 용접"
+      ],
+      "description": "완벽한 용입 깊이와 미려한 비드 외관을 완성하는 전류 및 용접봉 공급의 이상적인 밸런스를 확인합니다.",
+      "transcript": "쇳물이 너무 과도하게 쌓이지 않고 모재 개선면 경계선과 완벽하게 융합되도록 용접봉의 투입량과 투입 속도를 전류와 일치시키는 고급 제어 감각을 보여줍니다."
+    }
+  ]
+}
